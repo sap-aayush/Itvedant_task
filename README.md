@@ -1,3 +1,35 @@
+# Literacy and Unemployment Trends Analysis in India
+
+## Objective
+
+This project explores the relationship between literacy rates and unemployment trends across various districts and states in India. The goal is to identify whether higher literacy rates correlate with lower unemployment and provide insights for policymakers to focus education-driven interventions.
+
+## Dataset
+
+The analysis is based on the **Census 2011 Literacy Data** for districts in India. The dataset contains the following features:
+
+- **District**: Name of the district.
+- **State**: Name of the state corresponding to the district.
+- **Literacy Rate**: Percentage literacy in the district.
+
+## Key Tasks
+
+1. **Data Cleaning and Preparation**:
+   - Standardizing column names and state names.
+   
+2. **Exploratory Data Analysis**:
+   - Visualizing the top 50 districts by literacy rate.
+   - Generating a boxplot to observe literacy rate distribution across states.
+   - Ranking states based on average literacy rates.
+   
+3. **Clustering Analysis**:
+   - Applying K-Means clustering to group states based on their literacy rates into three categories.
+   - Visualizing these clusters using a scatter plot.
+
+4. **Hypothesis Testing**:
+   - Exploring whether higher literacy rates consistently correlate with lower unemployment.
+   - Investigating differences between rural and urban areas in terms of literacy and unemployment.
+
 # Unemployment Rate Analysis in India
 
 ## Overview
