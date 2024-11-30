@@ -104,3 +104,5 @@ The data spans from **2019 to 2020**, covering a period of economic disruptions,
    A heatmap to visualize the correlation between unemployment rate, labor participation rate, and other variables.
 
 ---
+
+### For the task 2, I could not find the data set of the china of the covid scpecifically to train the neural network. I got the data of the day wise and the cihina data on which i did the EDA and visualization methods, but due to the lack of the target column could not train the neural network model.
